@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there!
+
+Welcom to my GitHub profile :)
 
 <!--
 **Merlin026/Merlin026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
