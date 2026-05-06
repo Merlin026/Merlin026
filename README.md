@@ -2,6 +2,7 @@
 
 Welcom to my GitHub profile :)
 
+![Pacman contribution graph](https://github.com/Merlin026/Merlin026/blob/output/pacman-contribution-graph.svg)
 <!--
 **Merlin026/Merlin026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
